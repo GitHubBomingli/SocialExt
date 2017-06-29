@@ -2,9 +2,9 @@
 Circle of Friends
 
 ## 使用前请阅读
-1、接口参考SEBody0.json,详情见《朋友圈接口文档》
-2、请仔细阅读SEConfig.h里的温馨提示
-3、引用头文件：#import "SocialExtViewController.h"
+1、接口参考SEBody0.json,详情见《朋友圈接口文档》<br>
+2、请仔细阅读SEConfig.h里的温馨提示<br>
+3、引用头文件：#import "SocialExtViewController.h"<br>
 
 ## 调用示例
 ```
