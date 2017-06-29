@@ -14,5 +14,7 @@ Circle of Friends
     vc.userHeadPlaceholderImageName = @"sebackground";
     vc.colorWithAlphaComponent = 0.2;
     [self.navigationController pushViewController:vc animated:YES];
-    ```
-    headerBackgroundImageName默认头视图背景图片名；userModel当前用户；userHeadPlaceholderImageName默认头像
+ ```
+ 
+ headerBackgroundImageName默认头视图背景图片名；userModel当前用户；userHeadPlaceholderImageName默认头像
+  
