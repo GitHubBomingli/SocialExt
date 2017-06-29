@@ -1,5 +1,6 @@
 # SocialExt
-Circle of Friends
+Circle of Friends<br>
+朋友圈
 
 ## 使用前请阅读
 1、接口参考SEBody0.json,详情见《朋友圈接口文档》<br>
